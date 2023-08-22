@@ -11,7 +11,7 @@ Flag=0
 #api=os.environ.get('api_key')
 
 # add api key without environment variables
-api=6362378008:AAErnZnZAElIfzW7opRA9vgmvtudwPdi8UA
+api= 6362378008:AAErnZnZAElIfzW7opRA9vgmvtudwPdi8UA
 
 # create a log file
 logging.basicConfig(filename='bot.log',format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
