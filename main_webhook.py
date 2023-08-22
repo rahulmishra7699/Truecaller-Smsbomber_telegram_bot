@@ -10,7 +10,7 @@ Flag=0
 # flag is used to know where the input number should go 
 
 #get tellegram bot api from environment variables
-api=os.environ.get('api_key')
+api=os.environ.get('6362378008:AAErnZnZAElIfzW7opRA9vgmvtudwPdi8UA')
 
 # create a log file
 logging.basicConfig(filename='bot.log',format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
